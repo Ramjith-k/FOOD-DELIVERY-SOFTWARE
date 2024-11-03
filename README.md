@@ -8,88 +8,42 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Nair Ramjith Kesavan Kutty] - [College of engineering munnar]
+- Member 2: [Siva Prasad] - [College of engineering munnar]
+- Member 3: [Abishek VS] - [College of engineering munnar]
 
 ### Project Description
-[2-3 lines about what your project does]
+we have made a front-end website called feast delivery,in which people can order food at very cheap rate and can get it as quick as possible
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+at our place we have only one food delivering app which lags a lot and sometimes it doesnt bring correct food.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+the solution is our website named feast delivery
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+HTML
+CSS
 
 ### Implementation
 For Software:
 # Installation
-[commands]
-
-# Run
-[commands]
+VISUAL STUDIO CODE
 
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot 2024-11-03 071339](https://github.com/user-attachments/assets/963a00a8-b350-453f-b4e2-607e8921041b)
+This screenshot shows the code that we implemented in visual studio code
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot 2024-11-03 071405](https://github.com/user-attachments/assets/3aece553-3494-4b57-9259-1b33a89ce954)
+this screenshot shows the front end created website of the program
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot 2024-11-03 071434](https://github.com/user-attachments/assets/aa40e31b-89f4-45b2-908c-6025f123c3e5)
+this screenshot shows the payment method front end website of the program
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
